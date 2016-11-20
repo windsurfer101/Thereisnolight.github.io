@@ -1,0 +1,61 @@
+---
+title: Blog post week two
+layout: post
+author: oscar.midgleymasters
+permalink: /blog-post-week-two/
+source-id: 1DphM9aCEJrzL38UN93e7gVZ___bEe0XSwgdXPDrySyQ
+published: true
+---
+<table>
+  <tr>
+    <td>Title</td>
+    <td>fuze</td>
+    <td>Date</td>
+    <td>26/9/16</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Starting point:</td>
+    <td>use variables for speech</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>To have a Variables so the fuze can talk to me</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td> i did as i got on to the next one which was sayin i love aliens with letters</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Lesson Review</td>
+  </tr>
+  <tr>
+    <td>How did I learn? What strategies were effective? </td>
+  </tr>
+  <tr>
+    <td>i learnt by taking it one step at a time as i thought if i rushed it I would be stuck later on and wouldnt be able to perform to the best of my ability rather than ask for help as I would not have learnt anything  and would just be copying </td>
+  </tr>
+  <tr>
+    <td>What limited my learning? Which habits d
+L .tywqqo I need to work on? </td>
+  </tr>
+  <tr>
+    <td>the main limit to my learning was the way i struggle with variables and the pixels for the final part the code was quite  easy to understand if you had focused on the previous tasks you can clearly understand the code is just easy parts but in a complex form that makes ot look hard so i need to stop taking things by their first impression and work it out</td>
+  </tr>
+  <tr>
+    <td>What will I change for next time? How will I improve my learning?</td>
+  </tr>
+  <tr>
+    <td>i will improve my learning by making everything as good as i can and do it as fast as i can which will help me in the long run as the faster i am the more easy the work seems so the foster only work for less work I have and I will be over all better then I will see if I hadn't been as fast</td>
+  </tr>
+</table>
+
+
