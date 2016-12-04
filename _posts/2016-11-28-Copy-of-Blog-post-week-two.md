@@ -1,5 +1,5 @@
 ---
-title: Copy of Blog post week two
+title: blog seven
 layout: post
 author: oscar.midgleymasters
 permalink: /copy-of-blog-post-week-two/
