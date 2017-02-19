@@ -1,8 +1,8 @@
 ---
-title: Blog post second term week 2
+title: Blog post second term week 3
 layout: post
 author: oscar.midgleymasters
-permalink: /blog-post-second-term-week-2/
+permalink: /blog-post-second-term-week-3/
 source-id: 13ZD2DJzqzsqWOK1Vo7iLB_HO2vCaMSyASb4tbDDpbqw
 published: true
 ---
