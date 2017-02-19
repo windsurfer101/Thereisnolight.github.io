@@ -14,7 +14,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>i was using the instructions but that was not the only thing i did as i had a good idea of what some of the pieces of the code were so I would try and do it on my own then read the instructions and when i needed to corroborate my knowledge with the code i think it was quite easy i also found that doing a little bit every so often it made me feel better at doing it as it was easier to do it the more i did it4</td>
+    <td>i was using the instructions but that was not the only thing i did as i had a good idea of what some of the pieces of the code were so I would try and do it on my own then read the instructions and when i needed to corroborate my knowledge with the code i think it was quite easy i also found that doing a little bit every so often it made me feel better at doing it as it was easier to do it the more i did it</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
