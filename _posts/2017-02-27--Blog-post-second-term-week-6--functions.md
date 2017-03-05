@@ -1,4 +1,4 @@
-h---
+---
 title:  Blog post second term week 6- functions
 layout: post
 author: oscar.midgleymasters
