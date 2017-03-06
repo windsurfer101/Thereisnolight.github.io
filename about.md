@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-###hobbies of mine
+### Hobbies of Mine
 I love windsurfing and quantum physics
 
 ### Contact me
