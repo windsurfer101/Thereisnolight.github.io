@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Hobbies of Mine
 permalink: /about/
 ---
 ### Hobbies of Mine
